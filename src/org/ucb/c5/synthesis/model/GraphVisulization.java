@@ -14,6 +14,10 @@ import src.org.ucb.c5.synthesis.EcoliGraph;
 import java.awt.*;
 import javax.swing.*;
 
+/**
+ * This works for very well when I was using the good_reaction
+ *
+ */
 public class GraphVisulization extends JApplet{
     private static final long serialVersionUID = 247;
     private static final Dimension DEFAULT_SIZE = new Dimension(1000,800);
